@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Marcelo Beijinha
 
-- 🔭 I’m currently working on a Neural Network with JavaScript.
+- 🔭 I’m currently working on a Neural Network with JavaScript Brain.js library.
 
 - 🌱 I’m currently learning Power Platforms
 
